@@ -166,6 +166,17 @@ header {
     opacity: 0.3;
 }
 
+button{
+    background-color: black;
+    color: white;
+}
+
+.dark{
+    background-color: black;
+    color: white;
+
+}
+
 /* pc */
 
 @media screen and (min-width:1200px){
@@ -268,5 +279,18 @@ body{
     font-weight: bold;
     font-style: italic;
 }
+
+.dark{
+    background-color: black;
+    color:rgb(216, 216, 216);
+    filter: invert(90%);
+
+}
+
+
+.btn{
+    background: rgb(93, 235, 11);
+}
+
 
 }
