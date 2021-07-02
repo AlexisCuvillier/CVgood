@@ -170,6 +170,9 @@ header {
 button{
     background-color: black;
     color: white;
+    margin-left: 39%;
+    margin-top: 25px;
+    margin-bottom: 5px;
 }
 
 .dark{
@@ -249,7 +252,6 @@ body{
     max-width: 1000px;
     min-height: 1000px;
     background: #fff;
-    
     display: grid;
     grid-template-columns: 1fr 2fr;
     box-shadow: 0 35px 55px rgba(0, 0, 0, 0.1);
