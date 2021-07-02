@@ -284,7 +284,7 @@ body{
 .dark{
     background-color: black;
     color:rgb(216, 216, 216);
-    filter: invert(90%);
+    filter:invert(0.8)
 
 }
 
