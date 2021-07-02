@@ -76,6 +76,7 @@
 .ancienfinale h3 {
     margin-bottom: 25px;
     text-align: center;
+
 }
 
 .logo {
@@ -151,8 +152,8 @@ header {
         display: flex;
         justify-content:space-around;
         text-align: center;
-        
-    
+        padding-bottom: 25px;
+       
 }
 .btn{
     height: 20px;
